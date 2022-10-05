@@ -1,6 +1,6 @@
 # Hi, I'm Jakub 👋
 
-I'm currently working in TomTom on the best map of the World.
+I'm currently working in TomTom on delivering the map to vehicles all over the world.
 
 I'm also contributing bits and pieces to open source community.
 
